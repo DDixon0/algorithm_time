@@ -23,7 +23,7 @@ int * copyArr(int arr[], int l);
 //Checks the Array
 bool checkarr(int arr[], int l);
 
-
+//Simple commit test
 
 int main(){
 
