@@ -2,15 +2,15 @@
 
 Program that shows times of different algorithms.
 
-[Radix](https://www.programiz.com/dsa/radix-sort) Sort Algorithm
-[Quick](https://www.programiz.com/dsa/quick-sort) Sort Algorithm
-[Quick](https://www.geeksforgeeks.org/quicksort-using-random-pivoting/) Sort Random Algorithm
-[Heap](https://www.programiz.com/dsa/heap-sort) Sort Algorithm
-[Merge](https://www.programiz.com/dsa/merge-sort) Sort Algorithm
+- [Radix](https://www.programiz.com/dsa/radix-sort) Sort Algorithm
+- [Quick](https://www.programiz.com/dsa/quick-sort) Sort Algorithm
+- [Quick](https://www.geeksforgeeks.org/quicksort-using-random-pivoting/) Sort Random Algorithm
+- [Heap](https://www.programiz.com/dsa/heap-sort) Sort Algorithm
+- [Merge](https://www.programiz.com/dsa/merge-sort) Sort Algorithm   
 
 
 
-Typical Algorithm Times in NanoSeconds:
+Typical Algorithm Times in NanoSeconds:    
 
 N		Insertion	Merge		Heap		Quick		Quick Random	Radix 
 10        	1200      	1700      	1500      	1300      	10900     	2200      	
